@@ -1,0 +1,4 @@
+ruby -E utf-8 # Encoding name follows -E ruby -Eutf-8 # The space is optional ruby --encoding utf-8 # Encoding 
+following --encoding with a space
+ruby --encoding=utf-8    # Or use an equals sign with --encoding
+

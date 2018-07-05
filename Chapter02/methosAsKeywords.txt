@@ -1,0 +1,19 @@
+# These are methods that appear to be statements or keywords
+
+at_exit
+attr
+attr_accessor
+attr_reader
+attr_writer
+catch
+include
+lambda
+load
+loop
+private
+proc
+protected
+public
+raise
+require
+throw

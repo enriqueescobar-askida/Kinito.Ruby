@@ -1,0 +1,8 @@
+#!/usr/bin/ruby -w          <lineannotation>shebang comment</lineannotation>
+# -*- coding: utf-8 -*-     <lineannotation>coding comment</lineannotation>
+require 'socket'            <lineannotation>load networking library</lineannotation>
+
+  ...                       <lineannotation>program code goes here</lineannotation>
+
+__END__                     <lineannotation>mark end of code</lineannotation>
+  ...                       <lineannotation>program data goes here</lineannotation>

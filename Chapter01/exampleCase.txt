@@ -1,0 +1,9 @@
+# Determine US generation name based on birth year
+# Case expression tests ranges with ===
+generation = case birthyear
+             when 1946..1963: "Baby Boomer"
+             when 1964..1976: "Generation X"
+             when 1978..2000: "Generation Y"
+             else nil
+             end
+
